@@ -1,4 +1,4 @@
-✅ `main.py`
+`main.py`
 
 ```python
 from signal_sender import send_signal
